@@ -3,6 +3,8 @@
 !baseline.ipynb
 !hw3.ipynb
 !baselines.py
+!pdfs
+!pdfs/*.pdf
 
 # Created by https://www.toptal.com/developers/gitignore/api/python
 # Edit at https://www.toptal.com/developers/gitignore?templates=python
