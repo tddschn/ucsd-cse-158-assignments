@@ -4,7 +4,7 @@ This repository only contains solution to [homework 3](pdfs/homework3.pdf), a bi
 
 ## Homework 3
 
-- Modeling baseline with Jaccard similiarity
+- Modeling baseline with Jaccard similarity
   - Accuracy on validation set: 0.527
   - [PDF](pdfs/hw3-baseline.pdf)
   - [Jupyter notebook](baseline.ipynb)
